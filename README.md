@@ -4,3 +4,4 @@ lembrar de sempre que modificar o arquivo:
 -subir para o gitgub;
 -colocar data;
 -salvar com imagens;
+https://www.youtube.com/watch?v=KXvONdomGos&t=481s
